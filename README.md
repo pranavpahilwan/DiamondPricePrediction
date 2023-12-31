@@ -24,13 +24,13 @@ Target variable:
 price: Price of the given Diamond.
 
 ### Build with
- # Pandas
- Numpy
- Scikit-learn
- Flask
- Seaborn
- Matplotlib
- Pickle
+- Pandas
+- Numpy
+- Scikit-learn
+- Flask
+- Seaborn
+- Matplotlib
+- Pickle
 
 ### Get use of this Project
  Download this Diamond Price Prediction Project
