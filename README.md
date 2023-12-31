@@ -24,7 +24,7 @@ Target variable:
 price: Price of the given Diamond.
 
 ### Build with
- Pandas
+ # Pandas
  Numpy
  Scikit-learn
  Flask
