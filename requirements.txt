@@ -3,5 +3,5 @@ numpy
 seaborn
 flask
 scikit-learn
-
+pickle
 
